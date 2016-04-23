@@ -1,3 +1,4 @@
+New_branch cretaed
 1) I am firing same query from Db many time how to optimize. Where should I keep data in cache or session variable.
 2) When to clear session.
 3) When to stop request and response, and is it ok to redirect, as I have used it heavily.
